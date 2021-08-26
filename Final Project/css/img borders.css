@@ -1,0 +1,5 @@
+#borders { 
+  border: 10px solid transparent;
+  padding: 15px;
+  border-image: url(borders.jpeg) 30 stretch;
+}
